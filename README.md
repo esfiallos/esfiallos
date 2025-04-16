@@ -47,7 +47,3 @@
 - An interactive program to teach the history of cryptography and encryption methods
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=esfiallos&show_icons=true&locale=en" alt="esfiallos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=esfiallos&" alt="esfiallos" /></p>
-
